@@ -6,7 +6,7 @@ Este é um projeto desenvolvido como parte da prova prática para a empresa **Ta
 
 ## Tecnologias Utilizadas
 
-- **Backend:** Node.js, Express.js, Sequelize, MySQL
+- **Backend:** Node.js (v22.12.0), Express.js, Sequelize, MySQL
 - **Frontend:** Next.js, React, Axios, Tailwind CSS
 
 ---
